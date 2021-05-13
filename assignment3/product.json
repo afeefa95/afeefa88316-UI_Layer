@@ -1,0 +1,49 @@
+[{
+    "pid":"p1001",
+    "pname":"Pepsi",
+    "unitPrice":30.00,
+    "img":"img1.jpg"
+},
+{
+    "pid":"p1002",
+    "pname":"Coke",
+    "unitPrice":45.00,
+    "img":"img1.jpg"
+},
+{
+    "pid":"p1003",
+    "pname":"Fanta",
+    "unitPrice":33.00,
+    "img":"img1.jpg"
+},
+{
+    "pid":"p1004",
+    "pname":"Limca",
+    "unitPrice":30.00,
+    "img":"img1.jpg"
+},
+{
+    "pid":"p1005",
+    "pname":"Soda",
+    "unitPrice":20.00,
+    "img":"img1.jpg"
+},
+{
+    "pid":"p1005",
+    "pname":"Cola",
+    "unitPrice":30.00,
+    "img":"img1.jpg"
+},
+{
+    "pid":"p1005",
+    "pname":"Ice Cream",
+    "unitPrice":10.00,
+    "img":"img1.jpg"
+},
+{
+    "pid":"p1005",
+    "pname":"Juice",
+    "unitPrice":20.00,
+    "img":"img1.jpg"
+}
+]
